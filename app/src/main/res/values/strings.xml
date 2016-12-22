@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MPermissionDemo</string>
+    <string name="test_activity">Activity中请求权限</string>
+    <string name="State_authority_for_mobile_phone">申请手机状态权限</string>
+    <string name="user_PermissionsDispatcher">开源库PermissionsDispatcher的使用</string>
+    <string name="Apply_for_store_permissions">申请储存权限</string>
+</resources>
